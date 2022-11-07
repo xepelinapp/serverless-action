@@ -1,4 +1,4 @@
-FROM 926730722324.dkr.ecr.us-east-1.amazonaws.com/python-nodejs:python3.10-nodejs16-slim
+FROM public.ecr.aws/f9h0f0e4/python-nodejs:python3.10-nodejs16-slim
 
 LABEL version="1.0.0"
 LABEL repository="https://github.com/serverless/github-action"
